@@ -3,7 +3,7 @@ package pogreb
 import (
 	"encoding/gob"
 
-	"github.com/akrylysov/pogreb/fs"
+	"github.com/maitai/pogreb/fs"
 )
 
 func readGobFile(fsys fs.FileSystem, name string, v interface{}, readOnly bool) error {

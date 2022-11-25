@@ -13,8 +13,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/akrylysov/pogreb/fs"
-	"github.com/akrylysov/pogreb/internal/assert"
+	"github.com/maitai/pogreb/fs"
+	"github.com/maitai/pogreb/internal/assert"
 )
 
 const (

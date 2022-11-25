@@ -3,7 +3,7 @@ package pogreb
 import (
 	"testing"
 
-	"github.com/akrylysov/pogreb/internal/assert"
+	"github.com/maitai/pogreb/internal/assert"
 )
 
 func (dl *datalog) segmentMetas() []segmentMeta {

@@ -6,7 +6,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/akrylysov/pogreb/internal/assert"
+	"github.com/maitai/pogreb/internal/assert"
 )
 
 func TestIs(t *testing.T) {

@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/akrylysov/pogreb/fs"
+	"github.com/maitai/pogreb/fs"
 )
 
 type errfs struct{}
